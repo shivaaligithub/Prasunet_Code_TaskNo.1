@@ -1,6 +1,6 @@
 # Dogs vs Cats Image Classification - CNN
 
-
+**Complete Video Tutorial:** https://youtu.be/ENXr1foShrA
 
 # Dataset Information
 
